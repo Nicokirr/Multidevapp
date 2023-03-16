@@ -8,7 +8,7 @@ Screen1 As screen:
 
     Button1 As button:
         Text: ="Button"
-        X: =696
-        Y: =252
+        X: =718
+        Y: =442
         ZIndex: =2
 
